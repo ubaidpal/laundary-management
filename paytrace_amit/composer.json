@@ -1,0 +1,5 @@
+{
+    "require": {
+        "softcommerce/omnipay-paytrace": "~1.0"
+    }
+}
